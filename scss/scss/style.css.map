@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,EAAG;EACD,WAAW,ECMD,4DAAgB;EDL1B,SAAS,EEsCK,QAAG;;AFnCnB,OAAQ;EGwBN,gBAAgB,EAPC,GAAW;EAQ5B,gBAAgB,EAAE,4CAA0C;EAC5D,gBAAgB,EAAE,mCAAgD",
+"sources": ["style.scss","../bourbon/addons/_font-stacks.scss","../bourbon/functions/_modular-scale.scss","../bourbon/css3/_linear-gradient.scss"],
+"names": [],
+"file": "style.css"
+}
